@@ -8,6 +8,7 @@
 char i=255;
 /*
  * Main function
+ * Represent the main procedure.
  */
 int main(void)
 {
