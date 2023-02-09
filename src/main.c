@@ -6,6 +6,9 @@
  *
  */
 char i=255;
+/*
+ * Main function
+ */
 int main(void)
 {
 printf("1 + 1 = %d\n", add(1,1));
