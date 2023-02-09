@@ -7,6 +7,7 @@
 
 /*
 *Add function
+*Return the sum of this two parameters.
 */
 int add(int a, int b)
 {
