@@ -9,6 +9,7 @@ char i=255;
 /*
  * Main function
  * Represent the main procedure.
+ * Invoke all other functions
  */
 int main(void)
 {
